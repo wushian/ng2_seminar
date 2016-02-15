@@ -1,6 +1,4 @@
-demo1_helloWorldOnlyTsFiles/node_modules
-demo1_helloWorldOnlyTsFiles/typings
-demo2_helloWorldJs/node_modules
-demo2_helloWorldJs/typings
+node_modules
+typings
 *.js.map
 *.js
